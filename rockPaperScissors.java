@@ -1,4 +1,3 @@
-package com.Day10;
 import java.util.Scanner;
 import java.util.Random;
 
